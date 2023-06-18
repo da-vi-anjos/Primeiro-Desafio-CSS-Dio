@@ -81,3 +81,8 @@ section {
     border-image-slice: 10;
     border-radius: 30px;
 }
+
+#course-content {
+    width: 800px;
+    text-align: center;
+}

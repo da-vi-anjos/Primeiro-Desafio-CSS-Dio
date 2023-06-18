@@ -112,6 +112,7 @@ section {
     background-image: url("../images/woman-code.png");
     background-attachment: fixed;
     border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
     padding: 200px;
 }
 
@@ -123,3 +124,7 @@ section {
     text-shadow: 3px 2px #33A8DB;
 }
 
+#professional-challenges {
+    text-align: center;
+    width: 800px;
+}
